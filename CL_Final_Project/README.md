@@ -1,6 +1,5 @@
 # CL_Final_Project
 
-
 Email: ramita9070@gmail.com 
 
 Name: Ramita Kumpakha
@@ -13,7 +12,7 @@ Class: DA1 /Tuesday
 
 ## Description
 
-This project is about the top Movies, The dataset contains the top 250 rated movies on IMDB as of 2021, providing a snapshot of the most popular and highly rated movies of recent times. This project shows the data's in different ways like it will show different lists of movies according to genre,ratings etc.
+My project name is CL_Final_Project. This project is about the top Movies, The dataset contains the top 250 rated movies on IMDB as of 2021, providing a snapshot of the most popular and highly rated movies of recent times. This project shows the data's in different ways like it will show different lists of movies according to genre,ratings etc.
 
 Features of this project:
 1. The first feature would be that, it will be able to list out the movies accrding to the genre or year of realeases.
@@ -38,13 +37,15 @@ Installation and Setup Instructions
 
 Clone down this repository on your machine
 
+Install visual studio code
+
 Install Python, Jupytor notebook.
 
 Install matplotlib
 
  You need to install pandas and numpy using 
- !pip install pandas
- !pip install numpy
+ !pip install pandas /
+ !pip install numpy /
  !pip install matplotlib
 
  
